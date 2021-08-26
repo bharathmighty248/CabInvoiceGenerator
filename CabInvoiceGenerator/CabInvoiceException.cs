@@ -12,7 +12,7 @@ namespace CabInvoiceGenerator
             INVALID_DISTANCE,
             INVALID_TIME,
             NULL_RIDE,
-            INVALID_USER_ID
+            INVALID_USER_Name
         }
 
         public ExceptionType eType;
